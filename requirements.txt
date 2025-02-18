@@ -1,0 +1,6 @@
+streamlit
+pandas
+matplotlib
+seaborn
+sqlalchemy
+scikit-learn>=1.0.2
